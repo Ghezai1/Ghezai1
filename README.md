@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Ghezai1
+- 👀 I’m interested in everything related to IT and develoing apps...
+- 🌱 I’m currently learning how to program and analysis and develop apps...
+- 📫 How to reach me by my email ( ghazl_98066@hotmail.com) ...
+
+<!---
+Ghezai1/Ghezai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
